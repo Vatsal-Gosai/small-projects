@@ -1,3 +1,1 @@
 # small-projects
-
-Some projects
